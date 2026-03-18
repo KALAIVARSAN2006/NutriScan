@@ -1,0 +1,5 @@
+{
+  "name": "NutriScan",
+  "description": "Analyze food labels and get a complete health evaluation from a professional AI nutritionist.",
+  "requestFramePermissions": []
+}
